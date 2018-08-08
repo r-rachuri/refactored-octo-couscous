@@ -1,2 +1,4 @@
 this is a doc for testing git
 another line was added here
+git is a distributed version control system.
+svn is a centralised version control system.
